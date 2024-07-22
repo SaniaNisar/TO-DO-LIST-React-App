@@ -1,0 +1,29 @@
+.text-center {
+  text-align: center;
+}
+
+.my-4 {
+  margin-top: 1.5rem !important;
+  margin-bottom: 1.5rem !important;
+}
+
+.form-inline {
+  display: flex;
+  align-items: center;
+}
+
+.mr-2 {
+  margin-right: 0.5rem !important;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+.header {
+  text-align: center;
+  margin: 80px;
+  margin-bottom: 50px;
+  color: green;
+  text-decoration: underline solid;
+}
